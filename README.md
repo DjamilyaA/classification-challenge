@@ -2,12 +2,9 @@
 
 ## References
 
-Bohanec, M. 1997. *Car Evaluation* [Dataset]. UCI Machine Learning Repository. Available: https://archive.ics.uci.edu/dataset/19/car+evaluation [2023, May 9].([CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode))
+The data is located at https://static.bc-edx.com/ai/ail-v-1-0/m13/challenge/spam-data.csv
 
-Fisher, R.A. 1936. “The use of multiple measurements in taxonomic problems”. *Annual Eugenics*, 7(2): 179-188.
-
-Iris Dataset. Available: https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_iris.html#sklearn.datasets.load_iris
-
+Dataset Source: UCI Machine Learning Library
 Available under BSD 3-Clause License:
 
 Copyright (c) 2007–2023 The scikit-learn developers.
